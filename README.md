@@ -1,2 +1,3 @@
 # my-resume
-![](/myResume.png)
+<img src="/myResume.png"/>
+
