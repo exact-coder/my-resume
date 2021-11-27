@@ -1,5 +1,4 @@
 # my-resume
-<center>
-<img src="/myResume.png"/>
-</center>
-
+<p align="center">
+    <img src="/myResume.png"/>
+</p>
